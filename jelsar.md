@@ -58,6 +58,19 @@
 >  - **Path of Wild Magic** 
 > When entering rage consult d100 wild magic barb table - https://pdfhost.io/v/29p3phkXH_Barbarian_Wild_Magic_Tablepdf.pdf. DC of saving throw for effects = 8 + proficiency bonus (+2) + Con modifier (+2)
 > - *Magic Awareness* As an action until the end of your next turn you know the location of any spell or magic item within 60 feet of you that isn’t behind total cover. When you sense a spell, you learn which school of magic it belongs to. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+> >  - **Magic Initiate**
+> You learn two cantrips and one 1st-level spell of your choice from the Wizards spell list. Using this feat, you can cast the 1st level spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.Your spellcasting ability for these spells depends on Intelligence.
+> 
+> - Cantrip 1: Mage Hand - http://dnd5e.wikidot.com/spell:mage-hand A spectral, floating hand appears at a point you choose within range. The hand lasts for 1 minute or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again. You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. The hand can’t attack, activate magical items, or carry more than 10 pounds.
+> - Cantrip 2: Prestidigitation - http://dnd5e.wikidot.com/spell:prestidigitation This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
+You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+You instantaneously light or snuff out a candle, a torch, or a small campfire.
+You instantaneously clean or soil an object no larger than 1 cubic foot.
+You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+> - 1st Level Spell: Jump - triple jump distance for 1 minute
+
 > * * * 
 > 
 > - **Badger Necklace** +1 CHA & advantage on constitution saving throws
